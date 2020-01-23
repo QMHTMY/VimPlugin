@@ -1,0 +1,17 @@
+# Vim Plugins 
+:experimental:
+:author: 'Shieber'
+:date: '2020.01.23'
+
+### ShowLine 
+This script is to show the line of the buffer of a opened file. +  
+Usage `:Le`
+
+### WindowInfo 
+This scipt is to show the vim editor's Window number, cuurent line/total line of
+file, and current time at the time of entering another window. + 
+Usage: `Double press kbd:[Ctrl+W]` +
+Output: `Window 2, Line 2/168, 2020-01-23 09:53:47` 
+
+### Install 
+Put the scipt.vim into the `~/.vim/plugin/` 

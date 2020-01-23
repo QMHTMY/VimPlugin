@@ -1,0 +1,15 @@
+# Vim 插件
+:experimental:
+:author: 'Shieber'
+:date: '2020.01.23'
+
+### ShowLine 
+本插件显示vim打开文本缓存区的总行数。使用方法 `:Le`
+
+### WindowInfo 
+本插件在vim多窗口模式下使用。当切换到新窗口时，在底部显示窗口号，当前的行数/总行数，当前时间。 + 
+使用方法：`连按两次kbd:[Ctrl+W]` +
+输出结果：`Window 2, Line 2/168, 2020-01-23 09:53:47` 
+
+### 安装方法
+直接将对应的scipt.vim文件放在 `~/.vim/plugin/` ，插件会自动加载。
