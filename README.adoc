@@ -5,7 +5,7 @@
 
 ### ShowLine 
 This script is to show the line of the buffer of a opened file. +  
-Usage `:Le`
+Usage `:Line`
 
 ### WindowInfo 
 This scipt is to show the vim editor's Window number, cuurent line/total line of
